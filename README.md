@@ -1,2 +1,2 @@
 
-![Demo Animation](PixelartGIF-Pixelart-Discover&ShareGIFs.gif)
+![Demo Animation](profile.gif)
